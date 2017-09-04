@@ -1,3 +1,4 @@
+我是bug3
 哈哈哈哈
 fuck
 My first repository
